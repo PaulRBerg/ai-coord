@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has been merged into [agent-toolkit](https://github.com/PaulRBerg/agent-toolkit)
+> (subdirectory `coord/`) and is archived. All development continues there.
+
 # ai-coord
 
 Local coordination and durable repository findings for parallel Codex and Claude Code agents, shipped as one Rust
